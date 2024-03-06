@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @OzShalem
-- 💞️ I’m looking to collaborate on any fullstack project
 - 📫 ozshalem98@gmail.com
 
 <!---
